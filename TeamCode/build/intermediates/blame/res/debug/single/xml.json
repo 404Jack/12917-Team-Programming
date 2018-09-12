@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "/Users/mikebennmac/Downloads/ftc_app-master/TeamCode/build/intermediates/res/merged/debug/xml/k9legacybot.xml",
+        "source": "/Users/mikebennmac/.android/build-cache/0cc0323322b419e8c19a60a94e9415142349871f/output/res/xml/k9legacybot.xml"
+    },
+    {
+        "merged": "/Users/mikebennmac/Downloads/ftc_app-master/TeamCode/build/intermediates/res/merged/debug/xml/device_filter.xml",
+        "source": "/Users/mikebennmac/Downloads/ftc_app-master/FtcRobotController/build/intermediates/bundles/default/res/xml/device_filter.xml"
+    },
+    {
+        "merged": "/Users/mikebennmac/Downloads/ftc_app-master/TeamCode/build/intermediates/res/merged/debug/xml/rev_scoot.xml",
+        "source": "/Users/mikebennmac/.android/build-cache/0cc0323322b419e8c19a60a94e9415142349871f/output/res/xml/rev_scoot.xml"
+    },
+    {
+        "merged": "/Users/mikebennmac/Downloads/ftc_app-master/TeamCode/build/intermediates/res/merged/debug/xml/squarebot.xml",
+        "source": "/Users/mikebennmac/.android/build-cache/0cc0323322b419e8c19a60a94e9415142349871f/output/res/xml/squarebot.xml"
+    },
+    {
+        "merged": "/Users/mikebennmac/Downloads/ftc_app-master/TeamCode/build/intermediates/res/merged/debug/xml/k9usbbot.xml",
+        "source": "/Users/mikebennmac/.android/build-cache/0cc0323322b419e8c19a60a94e9415142349871f/output/res/xml/k9usbbot.xml"
+    },
+    {
+        "merged": "/Users/mikebennmac/Downloads/ftc_app-master/TeamCode/build/intermediates/res/merged/debug/xml/pushbotsens.xml",
+        "source": "/Users/mikebennmac/.android/build-cache/0cc0323322b419e8c19a60a94e9415142349871f/output/res/xml/pushbotsens.xml"
+    },
+    {
+        "merged": "/Users/mikebennmac/Downloads/ftc_app-master/TeamCode/build/intermediates/res/merged/debug/xml/app_settings.xml",
+        "source": "/Users/mikebennmac/Downloads/ftc_app-master/FtcRobotController/build/intermediates/bundles/default/res/xml/app_settings.xml"
+    },
+    {
+        "merged": "/Users/mikebennmac/Downloads/ftc_app-master/TeamCode/build/intermediates/res/merged/debug/xml/pushbot.xml",
+        "source": "/Users/mikebennmac/.android/build-cache/0cc0323322b419e8c19a60a94e9415142349871f/output/res/xml/pushbot.xml"
+    },
+    {
+        "merged": "/Users/mikebennmac/Downloads/ftc_app-master/TeamCode/build/intermediates/res/merged/debug/xml/advanced_rc_settings.xml",
+        "source": "/Users/mikebennmac/.android/build-cache/0cc0323322b419e8c19a60a94e9415142349871f/output/res/xml/advanced_rc_settings.xml"
+    },
+    {
+        "merged": "/Users/mikebennmac/Downloads/ftc_app-master/TeamCode/build/intermediates/res/merged/debug/xml/maxmodules.xml",
+        "source": "/Users/mikebennmac/.android/build-cache/0cc0323322b419e8c19a60a94e9415142349871f/output/res/xml/maxmodules.xml"
+    }
+]

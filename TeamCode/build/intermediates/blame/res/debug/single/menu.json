@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/mikebennmac/Downloads/ftc_app-master/TeamCode/build/intermediates/res/merged/debug/menu/main_menu.xml",
+        "source": "/Users/mikebennmac/.android/build-cache/896bbc344ae0900a6405b6d22b432b3b398b259b/output/res/menu/main_menu.xml"
+    },
+    {
+        "merged": "/Users/mikebennmac/Downloads/ftc_app-master/TeamCode/build/intermediates/res/merged/debug/menu/ftc_robot_controller.xml",
+        "source": "/Users/mikebennmac/Downloads/ftc_app-master/FtcRobotController/build/intermediates/bundles/default/res/menu/ftc_robot_controller.xml"
+    },
+    {
+        "merged": "/Users/mikebennmac/Downloads/ftc_app-master/TeamCode/build/intermediates/res/merged/debug/menu/menu_server.xml",
+        "source": "/Users/mikebennmac/.android/build-cache/d5cff409a432b085ef653209d35bf15abab3c02b/output/res/menu/menu_server.xml"
+    }
+]

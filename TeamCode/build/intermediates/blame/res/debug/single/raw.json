@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "/Users/mikebennmac/Downloads/ftc_app-master/TeamCode/build/intermediates/res/merged/debug/raw/simple_vertex_shader.glsl",
+        "source": "/Users/mikebennmac/.android/build-cache/3e6ffdd1865c96b915d8cdf08d53fd5046c74998/output/res/raw/simple_vertex_shader.glsl"
+    },
+    {
+        "merged": "/Users/mikebennmac/Downloads/ftc_app-master/TeamCode/build/intermediates/res/merged/debug/raw/errormessage.wav",
+        "source": "/Users/mikebennmac/.android/build-cache/0cc0323322b419e8c19a60a94e9415142349871f/output/res/raw/errormessage.wav"
+    },
+    {
+        "merged": "/Users/mikebennmac/Downloads/ftc_app-master/TeamCode/build/intermediates/res/merged/debug/raw/texture_vertex_shader.glsl",
+        "source": "/Users/mikebennmac/.android/build-cache/3e6ffdd1865c96b915d8cdf08d53fd5046c74998/output/res/raw/texture_vertex_shader.glsl"
+    },
+    {
+        "merged": "/Users/mikebennmac/Downloads/ftc_app-master/TeamCode/build/intermediates/res/merged/debug/raw/warningmessage.wav",
+        "source": "/Users/mikebennmac/.android/build-cache/0cc0323322b419e8c19a60a94e9415142349871f/output/res/raw/warningmessage.wav"
+    },
+    {
+        "merged": "/Users/mikebennmac/Downloads/ftc_app-master/TeamCode/build/intermediates/res/merged/debug/raw/texture_fragment_shader.glsl",
+        "source": "/Users/mikebennmac/.android/build-cache/3e6ffdd1865c96b915d8cdf08d53fd5046c74998/output/res/raw/texture_fragment_shader.glsl"
+    },
+    {
+        "merged": "/Users/mikebennmac/Downloads/ftc_app-master/TeamCode/build/intermediates/res/merged/debug/raw/cube_mesh_fragment_shader.glsl",
+        "source": "/Users/mikebennmac/.android/build-cache/3e6ffdd1865c96b915d8cdf08d53fd5046c74998/output/res/raw/cube_mesh_fragment_shader.glsl"
+    },
+    {
+        "merged": "/Users/mikebennmac/Downloads/ftc_app-master/TeamCode/build/intermediates/res/merged/debug/raw/chimedisconnect.wav",
+        "source": "/Users/mikebennmac/.android/build-cache/0cc0323322b419e8c19a60a94e9415142349871f/output/res/raw/chimedisconnect.wav"
+    },
+    {
+        "merged": "/Users/mikebennmac/Downloads/ftc_app-master/TeamCode/build/intermediates/res/merged/debug/raw/nxtstartupsound.wav",
+        "source": "/Users/mikebennmac/.android/build-cache/0cc0323322b419e8c19a60a94e9415142349871f/output/res/raw/nxtstartupsound.wav"
+    },
+    {
+        "merged": "/Users/mikebennmac/Downloads/ftc_app-master/TeamCode/build/intermediates/res/merged/debug/raw/color_fragment_shader.glsl",
+        "source": "/Users/mikebennmac/.android/build-cache/3e6ffdd1865c96b915d8cdf08d53fd5046c74998/output/res/raw/color_fragment_shader.glsl"
+    },
+    {
+        "merged": "/Users/mikebennmac/Downloads/ftc_app-master/TeamCode/build/intermediates/res/merged/debug/raw/chimeconnect.wav",
+        "source": "/Users/mikebennmac/.android/build-cache/0cc0323322b419e8c19a60a94e9415142349871f/output/res/raw/chimeconnect.wav"
+    },
+    {
+        "merged": "/Users/mikebennmac/Downloads/ftc_app-master/TeamCode/build/intermediates/res/merged/debug/raw/cube_mesh_vertex_shader.glsl",
+        "source": "/Users/mikebennmac/.android/build-cache/3e6ffdd1865c96b915d8cdf08d53fd5046c74998/output/res/raw/cube_mesh_vertex_shader.glsl"
+    }
+]
